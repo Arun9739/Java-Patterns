@@ -1,8 +1,6 @@
 
 /* A Program on generating the pattern of series of numbers from 1 to n */
 
-//package java.patterns;
-
 import java.util.Scanner;
 
 public class Pattern_1 {
