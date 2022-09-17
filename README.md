@@ -10,3 +10,7 @@ This repository contains pattern generating programs in Java. The pattern genera
  - This program takes an integer as an input from user and prints the numbers in reverse order.
  
  ![image](https://user-images.githubusercontent.com/84305637/188847999-9c7b5169-e30c-489e-9e4e-114d9cd8eb80.png)
+
+### [Pattern 3](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_3.java) :
+
+![image](https://user-images.githubusercontent.com/84305637/190860779-5ea4ee5f-1019-4bac-8e01-b32dae6d2a32.png)
