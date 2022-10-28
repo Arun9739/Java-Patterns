@@ -22,5 +22,6 @@ This repository contains pattern generating programs in Java. The pattern genera
 ![image](https://user-images.githubusercontent.com/84305637/192154748-218c7938-6960-4d70-8911-96f4437b9f3c.png)
 
 ### [Pattern 5](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_5.java) :
+- This program prints the prime numbers pattern.
 
 ![image](https://user-images.githubusercontent.com/84305637/193312304-5c0bbe98-c424-4a40-8589-4ef2a2bd70e3.png)
