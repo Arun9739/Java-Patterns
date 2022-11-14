@@ -10,3 +10,20 @@ This repository contains pattern generating programs in Java. The pattern genera
  - This program takes an integer as an input from user and prints the numbers in reverse order.
  
  ![image](https://user-images.githubusercontent.com/84305637/188847999-9c7b5169-e30c-489e-9e4e-114d9cd8eb80.png)
+
+### [Pattern 3](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_3.java) :
+- This program prints the even numbers till given input number.
+
+![image](https://user-images.githubusercontent.com/84305637/190860779-5ea4ee5f-1019-4bac-8e01-b32dae6d2a32.png)
+
+### [Pattern 4](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_4.java) :
+- This program prints odd numbers in given range.
+
+![image](https://user-images.githubusercontent.com/84305637/192154748-218c7938-6960-4d70-8911-96f4437b9f3c.png)
+
+### [Pattern 5](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_5.java) :
+- This program prints the prime numbers pattern.
+
+![image](https://user-images.githubusercontent.com/84305637/193312304-5c0bbe98-c424-4a40-8589-4ef2a2bd70e3.png)
+
+### [Pattern 6](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_6.java) :
