@@ -32,5 +32,6 @@ This repository contains pattern generating programs in Java. The pattern genera
 ![image](https://user-images.githubusercontent.com/84305637/201966334-72e7973f-79c3-4d18-b12a-fddbd97c86b5.png)
 
 ### [Pattern 7](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_7.java) :
+- This program prints each * pattern at new line 'n' times.
 
 ![image](https://user-images.githubusercontent.com/84305637/203588211-cd6c9acf-efec-4e7f-a849-8bcd4320fe56.png)
