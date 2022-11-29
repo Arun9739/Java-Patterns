@@ -1,5 +1,5 @@
 
-/* This program prints * symbol 'n' times in horizontal line */
+/* This program prints * symbol 'n' times in vertical fashion */
 
 import java.util.Scanner;
 
