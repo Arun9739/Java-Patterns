@@ -37,3 +37,8 @@ This repository contains pattern generating programs in Java. The pattern genera
 ![image](https://user-images.githubusercontent.com/84305637/203588211-cd6c9acf-efec-4e7f-a849-8bcd4320fe56.png)
 
 ### [Pattern 8](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_8.java) :
+- This program prints * in diagonal fashion.
+
+![image](https://user-images.githubusercontent.com/84305637/204570989-5157d68a-bc73-4c5a-aeae-0179bcbb6593.png)
+
+### [Pattern 9](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_9.java) :
