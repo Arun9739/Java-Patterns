@@ -44,4 +44,6 @@ This repository contains pattern generating programs in Java. The pattern genera
 ### [Pattern 9](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_9.java) :
 - This program prints the * in some unique fashion.
 
+![image](https://user-images.githubusercontent.com/84305637/210176868-d89ead96-845a-4011-bb85-84372e245132.png)
+
 ### [Pattern 10](https://github.com/Arun9739/Java-Patterns/blob/main/Java-Patterns/src/java/patterns/Pattern_10.java) :
